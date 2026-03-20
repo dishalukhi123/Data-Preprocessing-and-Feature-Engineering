@@ -1,0 +1,6 @@
+customer_id,age,income,purchase_count,churn
+1,25,50000,5,No
+2,30,60000,3,Yes
+3,35,70000,6,No
+4,40,80000,2,Yes
+5,28,65000,4,No
