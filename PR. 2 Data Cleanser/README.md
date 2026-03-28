@@ -122,6 +122,7 @@ By handling missing values and outliers, we improved data quality and made the d
 ## 👩‍💻 Author
 
 **Disha Lukhi**
+![alt text](images/data_cleaning.png)
 AI | ML | Data Science Student 🚀
 
 ---
