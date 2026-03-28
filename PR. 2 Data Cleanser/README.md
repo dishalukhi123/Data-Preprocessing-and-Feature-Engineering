@@ -24,8 +24,6 @@ The main goal is to handle **missing values and outliers** to prepare a clean da
 
 ## 📂 Dataset Description
 
-![Healthcare Data](https://images.unsplash.com/photo-1588776814546-1ffcf47267a5)
-
 The dataset contains patient health records with the following features:
 
 * **patient_id** – Unique ID
